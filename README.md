@@ -1,7 +1,3 @@
 # Hotel booking complete project 
 
-A stand alone application based on file handling. 
-
-Allow customers to place a booking by themselves and user privacy is ensured. 
-
-Separate interfaces for customers and the authority.
+This project was developed for the Advanced Programming Techniques course, and it is a stand-alone Java application that primarily focuses on file handling. It features two separate views for customers and the hotel authority. Customers can book rooms through the application and receive a passcode upon successful completion of the booking. The passcode can be used to update booking information and extend the booking period if available. There is also an option to recover the passcode with the assistance of the hotel authority. Authorized hotel crew members can view the details of booked rooms and customers after authentication.
